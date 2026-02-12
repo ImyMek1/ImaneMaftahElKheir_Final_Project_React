@@ -3,6 +3,7 @@ import NavBar from "../components/NavBar";
 import HeroSlider from "../components/HeroSlider";
 import Categories from "../components/Categories";
 import ProductGrid from "../components/ProductGrid";
+import PromoBanner from "../components/PromoBanner";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <HeroSlider />
       <Categories />
       <ProductGrid />
+      <PromoBanner />
     </>
   );
 }
