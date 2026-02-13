@@ -4,6 +4,7 @@ import NavBar from "./components/NavBar";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="/account" element={<Login />} />
         <Route path="/account/register" element={<Register />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }
