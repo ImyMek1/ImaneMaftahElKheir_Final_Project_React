@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Icons from "../constants/Icons";
 
 export default function Navbar() {
@@ -11,7 +12,7 @@ export default function Navbar() {
         </h1>
 
         <nav className="hidden md:flex gap-8 text-[15px] text-gray-700">
-          <a className="text-[#e65540]">Home</a>
+          <Link to="/" className="text-[#e65540]">Home</Link>
           <a>Shop</a>
           <a>Sale</a>
           <a>Features</a>
@@ -21,7 +22,9 @@ export default function Navbar() {
         </nav>
 
         <div className="flex items-center gap-6 text-gray-500">
-          <PiUserCircleLight size={30} />
+          <Link to="/account">
+            <PiUserCircleLight size={30} />
+          </Link>
           <AiOutlineShopping size={30} />
         </div>
       </div>
