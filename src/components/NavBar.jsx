@@ -12,8 +12,8 @@ export default function Navbar() {
         </h1>
 
         <nav className="hidden md:flex gap-8 text-[15px] text-gray-700">
-          <Link to="/" className="text-[#e65540]">Home</Link>
-          <a>Shop</a>
+          <Link to="/">Home</Link>
+          <Link to="/shop">Shop</Link>
           <a>Sale</a>
           <a>Features</a>
           <a>Blog</a>

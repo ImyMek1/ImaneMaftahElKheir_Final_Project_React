@@ -1,11 +1,50 @@
 [
-  { "id": 1, "name": "Boxy7 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy8" },
-  { "id": 2, "name": "Boxy6 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy7" },
-  { "id": 3, "name": "Boxy5 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy6" },
-  { "id": 4, "name": "Boxy4 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy5" },
-
-  { "id": 5, "name": "Boxy3 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy4" },
-  { "id": 6, "name": "Boxy2 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy3" },
-  { "id": 7, "name": "Boxy1 T-Shirt with Roll Sleeve", "price": 20, "image": "shopi2" },
-  { "id": 8, "name": "Boxy0 T-Shirt with Roll Sleeve", "price": 20, "image": "shopy6" }
+  {
+    "id": 1,
+    "name": "Boxy7 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy8"
+  },
+  {
+    "id": 2,
+    "name": "Boxy6 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy7"
+  },
+  {
+    "id": 3,
+    "name": "Boxy5 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy6"
+  },
+  {
+    "id": 4,
+    "name": "Boxy4 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy5"
+  },
+  {
+    "id": 5,
+    "name": "Boxy3 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy4"
+  },
+  {
+    "id": 6,
+    "name": "Boxy2 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy3"
+  },
+  {
+    "id": 7,
+    "name": "Boxy1 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopi2"
+  },
+  {
+    "id": 8,
+    "name": "Boxy0 T-Shirt with Roll Sleeve",
+    "price": 20,
+    "image": "shopy6"
+  }
 ]
