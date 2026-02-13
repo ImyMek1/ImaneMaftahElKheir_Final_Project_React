@@ -18,7 +18,7 @@ export default function Navbar() {
           <a>Features</a>
           <a>Blog</a>
           <a>About</a>
-          <a>Contact</a>
+          <Link to="/contact">Contact</Link>
         </nav>
 
         <div className="flex items-center gap-6 text-gray-500">
